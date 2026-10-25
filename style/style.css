@@ -396,18 +396,13 @@
             font-size: 32px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.4);
             z-index: 1000;
-            animation: pulse-wa 2s infinite;
-            transition: transform 0.3s ease;
+            /* Sin pulso continuo: evita el parpadeo y reduce trabajo gráfico. */
+            animation: none;
+            transition: transform 0.24s ease, box-shadow 0.24s ease, filter 0.24s ease;
         }
 
         .whatsapp-float:hover {
             transform: scale(1.1) rotate(5deg);
-        }
-
-        @keyframes pulse-wa {
-            0% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7); }
-            70% { box-shadow: 0 0 0 20px rgba(37, 211, 102, 0); }
-            100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
         }
 
         /* Degradado metálico para textos */
@@ -994,6 +989,24 @@ body { position: relative; isolation: isolate; }
 @media (max-width: 520px) { .whatsapp-float { right: 16px; bottom: 96px; min-height: 54px; height: 54px; padding-inline: .72rem .95rem; font-size: .72rem; } .whatsapp-float .fab { flex-basis: 2.1rem; width: 2.1rem; height: 2.1rem; } }
 @media (prefers-reduced-motion: reduce) { .ambient-curve-layer { transition: none; transform: none !important; } .ambient-curve { animation: none !important; } }
 
+/* WhatsApp flotante estable y adaptado a safe areas en móviles. */
+.whatsapp-float { animation: none !important; will-change: auto; }
+.whatsapp-float:focus-visible { outline: 3px solid rgba(184,245,107,.9); outline-offset: 4px; }
+@media (max-width: 520px) {
+    .whatsapp-float { right: max(16px, env(safe-area-inset-right)); bottom: max(96px, calc(env(safe-area-inset-bottom) + 76px)); }
+}
+
+/* Acciones directas de contacto: WhatsApp y llamada comparten una fila adaptable. */
+.contact-channel-actions { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:.65rem; margin-top:1.3rem; }
+.contact-channel-actions .contact-whatsapp-link { min-width:0; margin-top:0; }
+.contact-call-link { display:flex; min-width:0; align-items:center; gap:.72rem; padding:.8rem; border:1px solid rgba(81,174,237,.2); border-radius:.9rem; color:#eff6fc; background:linear-gradient(120deg,rgba(52,139,210,.12),rgba(7,19,22,.42)); text-decoration:none; transition:transform .2s ease,border-color .2s ease,background .2s ease; }
+.contact-call-link:hover { transform:translateY(-2px); border-color:rgba(81,174,237,.48); background:rgba(52,139,210,.14); }
+.contact-call-link > i { display:grid; flex:0 0 2.4rem; width:2.4rem; height:2.4rem; place-items:center; border-radius:.75rem; color:#fff; background:linear-gradient(145deg,#42a5f5,#2176c7); font-size:1rem; }
+.contact-call-link > span { display:flex; min-width:0; flex:1; flex-direction:column; gap:.2rem; }
+.contact-call-link strong { font-size:.75rem; }
+.contact-call-link small { color:#a9bac8; font-size:.67rem; }
+@media (max-width: 420px) { .contact-channel-actions { grid-template-columns:minmax(0,1fr); } }
+@media (prefers-reduced-motion: reduce) { .contact-call-link { transition-duration:.01ms !important; } }
 
 /* Portafolio responsive: evita costuras oscuras por el subpíxel del borde y las transformaciones. */
 .portfolio-gallery .team-gallery-stack { isolation: isolate; }
