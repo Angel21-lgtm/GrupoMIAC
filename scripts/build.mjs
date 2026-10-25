@@ -13,7 +13,7 @@ if (!outputDir.startsWith(projectRoot + sep) || outputDir !== resolve(projectRoo
 }
 rmSync(outputDir, { recursive: true, force: true });
 mkdirSync(outputDir, { recursive: true });
-for (const entry of ['index.html', 'style', 'script', 'img', 'robots.txt', 'sitemap.xml']) {
+for (const entry of ['index.html', 'style', 'script', 'img', 'robots.txt', 'sitemap.xml', 'googledfc90ebd9d80c5e7.html']) {
   const source = join(projectRoot, entry);
   if (existsSync(source)) cpSync(source, join(outputDir, entry), { recursive: true });
 }
