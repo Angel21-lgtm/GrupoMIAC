@@ -1,0 +1,18 @@
+GRUPO MIAC — SITIO WEB
+
+ARCHIVOS
+- index.html: contenido y estructura de la página.
+- style/style.css: estilos, responsive y animaciones.
+- script/script.js: navegación, idioma, galerías, contacto y efectos.
+- img/: logotipo, equipo, portada y portafolio.
+- netlify/functions/contact.mjs: función privada del formulario.
+- scripts/build.mjs: prepara dist/ como carpeta de publicación.
+
+PORTAFOLIO
+Tablaroca contiene 50 fotos únicas WebP, organizadas en img/portafolio/tablaroca/ bajo decoraciones, domos, durock y muros-y-plafones. El catálogo está en portfolioCatalog dentro de script/script.js. Las tarjetas usan miniaturas; el visor abre la versión WebP completa. Se excluyeron duplicados de otras carpetas. La resolución original se conserva y no se aumenta artificialmente a 4K.
+
+PUBLICACIÓN Y FORMULARIO
+El sitio se despliega en Netlify desde dist/ según netlify.toml. Configura FORMSUBMIT_ENDPOINT como variable secreta con scope Functions antes del deploy. Consulta SEGURIDAD-NETLIFY.md, MANTENIMIENTO.md y SEO-PUBLICACION.md. file:// no permite usar el formulario.
+
+UBICACIÓN
+Carretera México Toluca, km. 30, Colonia La Pila, 05750, Cuajimalpa de Morelos, CDMX. Pin del mapa: 19.3054068, -99.3372985.

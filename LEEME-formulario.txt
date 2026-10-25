@@ -1,0 +1,11 @@
+FORMULARIO GRUPO MIAC
+
+El formulario de la web envía los datos a una función de Netlify para validarlos y retransmitirlos a FormSubmit. El endpoint no está incluido en los archivos públicos.
+
+Configuración obligatoria:
+1. En Netlify, abre Site configuration > Environment variables.
+2. Crea FORMSUBMIT_ENDPOINT y pega el endpoint FormSubmit que compartió el propietario.
+3. Restringe el alcance a Functions.
+4. Vuelve a desplegar.
+
+Acepta nombre, correo opcional, asunto, mensaje y hasta 4 MB de archivos en PDF, imágenes, Word, Excel o DWG. Los mensajes solo llegan cuando FormSubmit tiene activado el buzón receptor correcto. La web abierta como file:// no ejecuta Functions.

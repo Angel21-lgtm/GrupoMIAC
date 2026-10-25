@@ -1,0 +1,9 @@
+PORTAFOLIO GRUPO MIAC
+
+Estructura actual:
+- estuco/: 14 fotos WebP existentes; se conservaron sin conversión.
+- redimix/: 46 fotos WebP maestras (3840 px en el lado largo), 46 miniaturas y manifest.json.
+- tablaroca/: carpeta reservada para próximas fotos de Tablaroca y derivados.
+- videos/: carpeta reservada para clips y pósters optimizados.
+
+Las tarjetas y rutas se mantienen en script/script.js, en portfolioCatalog. Las fotos Redimix incluyen etapa (en-obra/acabados), texto alternativo bilingüe y versiones separadas para miniatura y visor. Tres duplicados de menor resolución se excluyeron del catálogo; los originales de Descargas permanecen intactos.

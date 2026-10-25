@@ -1,0 +1,654 @@
+{
+  "category": "Redimix",
+  "images": [
+    {
+      "file": "FB_IMG_1791211241305.webp",
+      "thumb": "FB_IMG_1791211241305-mini.webp",
+      "source": "FB_IMG_1791211241305.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "66f7fc6eef56dd24de2f09dd953f684fc6ce5c8b2e57af026ded9ba518dd7162"
+    },
+    {
+      "file": "FB_IMG_1791211246613.webp",
+      "thumb": "FB_IMG_1791211246613-mini.webp",
+      "source": "FB_IMG_1791211246613.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1080,
+        810
+      ],
+      "source_sha256": "2100ceb02473eb83d7749809e77a1842ba3e0f9cd197944c709a540a31744a0d"
+    },
+    {
+      "file": "FB_IMG_1791211252350.webp",
+      "thumb": "FB_IMG_1791211252350-mini.webp",
+      "source": "FB_IMG_1791211252350.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1080,
+        810
+      ],
+      "source_sha256": "af04dab69f54a080afcaa1f11a0b8a7e9e25048a4f8bcda9f33ec0cb501d0bbb"
+    },
+    {
+      "file": "FB_IMG_1791211256252.webp",
+      "thumb": "FB_IMG_1791211256252-mini.webp",
+      "source": "FB_IMG_1791211256252.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1080,
+        810
+      ],
+      "source_sha256": "973c0a10591dd020c84e849f07e6b613914473f59d03c9d6e1e2c1dcdfe65899"
+    },
+    {
+      "file": "FB_IMG_1791211262553.webp",
+      "thumb": "FB_IMG_1791211262553-mini.webp",
+      "source": "FB_IMG_1791211262553.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1080,
+        810
+      ],
+      "source_sha256": "36681d4cb8c0d9b5f3f985e5e573b32c666b24ff2170868c1fa9005cb54d6c96"
+    },
+    {
+      "file": "FB_IMG_1791211268771.webp",
+      "thumb": "FB_IMG_1791211268771-mini.webp",
+      "source": "FB_IMG_1791211268771.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "4b23ad69c986cc3b58285e80df93238911cdbbc2965961196514fd1788bfa97b"
+    },
+    {
+      "file": "IMG-20260907-WA0002.webp",
+      "thumb": "IMG-20260907-WA0002-mini.webp",
+      "source": "IMG-20260907-WA0002.png",
+      "master_size": [
+        3840,
+        2160
+      ],
+      "thumb_size": [
+        1440,
+        810
+      ],
+      "source_sha256": "4f947f762f4675480a09dd8192ab9f2c0bf41d3b7563e00bec73fd5c75979d5e"
+    },
+    {
+      "file": "IMG-20260907-WA0003.webp",
+      "thumb": "IMG-20260907-WA0003-mini.webp",
+      "source": "IMG-20260907-WA0003.png",
+      "master_size": [
+        3840,
+        2160
+      ],
+      "thumb_size": [
+        1440,
+        810
+      ],
+      "source_sha256": "15f3d7dcfc46c761d7de089802528d0d86b9e35f60bb845ae2c848957ec30efc"
+    },
+    {
+      "file": "IMG-20260907-WA0004.webp",
+      "thumb": "IMG-20260907-WA0004-mini.webp",
+      "source": "IMG-20260907-WA0004.png",
+      "master_size": [
+        2160,
+        3840
+      ],
+      "thumb_size": [
+        810,
+        1440
+      ],
+      "source_sha256": "ffd6949c226d67b3023747137e3b1b0b2785fdbcccdbb7ae3bb7317f4d3134cf"
+    },
+    {
+      "file": "IMG-20260907-WA0010.webp",
+      "thumb": "IMG-20260907-WA0010-mini.webp",
+      "source": "IMG-20260907-WA0010.png",
+      "master_size": [
+        2160,
+        3840
+      ],
+      "thumb_size": [
+        810,
+        1440
+      ],
+      "source_sha256": "28deb98a6a3deebee2cbd9606a784f3c8febeed3b62f6722c36506caf46150b2"
+    },
+    {
+      "file": "IMG-20261003-WA0004.webp",
+      "thumb": "IMG-20261003-WA0004-mini.webp",
+      "source": "IMG-20261003-WA0004.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "77f3727e9acb995963a45d75ae6f964d760e989a0a99761f4ff8e086ab643438"
+    },
+    {
+      "file": "IMG-20261003-WA0008.webp",
+      "thumb": "IMG-20261003-WA0008-mini.webp",
+      "source": "IMG-20261003-WA0008.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "764fc07a992d5a6e944ed09b75397502081fa3a9cc5df9dcba7cbdc24f341bde"
+    },
+    {
+      "file": "IMG-20261003-WA0010.webp",
+      "thumb": "IMG-20261003-WA0010-mini.webp",
+      "source": "IMG-20261003-WA0010.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "9eb5d94d0d2316c8fbd65f1031021a15b7e0f519b35a9e1b55a8eb9ebd995931"
+    },
+    {
+      "file": "IMG-20261003-WA0011.webp",
+      "thumb": "IMG-20261003-WA0011-mini.webp",
+      "source": "IMG-20261003-WA0011.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "5077f4e688f4fd1b54eadd33cbf1e86430314e427549c71de159a4e9b1fe3944"
+    },
+    {
+      "file": "IMG-20261003-WA0013.webp",
+      "thumb": "IMG-20261003-WA0013-mini.webp",
+      "source": "IMG-20261003-WA0013.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "ff7613d2f5f9e4b92b57b9bf51301172c09decce9ad72f583e3fe093848ce6ae"
+    },
+    {
+      "file": "IMG-20261003-WA0017.webp",
+      "thumb": "IMG-20261003-WA0017-mini.webp",
+      "source": "IMG-20261003-WA0017.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1440,
+        1080
+      ],
+      "source_sha256": "6c43df0e9a0a1a10870c4267ab375497bd0fde83570bbbfc893dd559e50598d9"
+    },
+    {
+      "file": "IMG-20261003-WA0019.webp",
+      "thumb": "IMG-20261003-WA0019-mini.webp",
+      "source": "IMG-20261003-WA0019.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "1f521ce601da2ed97fefdfb4f546a2b3165fa526c4c0f1adb20d0dae9af939c8"
+    },
+    {
+      "file": "IMG-20261003-WA0020.webp",
+      "thumb": "IMG-20261003-WA0020-mini.webp",
+      "source": "IMG-20261003-WA0020.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "ae76eb09d0804c8767406fa51d81d2590e978946c3d08dd454e96ecce84bb4b3"
+    },
+    {
+      "file": "IMG-20261003-WA0021.webp",
+      "thumb": "IMG-20261003-WA0021-mini.webp",
+      "source": "IMG-20261003-WA0021.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "d41b131eaf799eaa7d2f46589cb31e804ee3e85bfc081c00527de550763f1e7b"
+    },
+    {
+      "file": "IMG-20261003-WA0025.webp",
+      "thumb": "IMG-20261003-WA0025-mini.webp",
+      "source": "IMG-20261003-WA0025.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1440,
+        1080
+      ],
+      "source_sha256": "4d2298b70c4c230f47214ccc32fe18c2d3d71cf1a5b12171fb9bf36551668bad"
+    },
+    {
+      "file": "IMG-20261003-WA0026.webp",
+      "thumb": "IMG-20261003-WA0026-mini.webp",
+      "source": "IMG-20261003-WA0026.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1440,
+        1080
+      ],
+      "source_sha256": "0477570d654b81835fec328c5c160aed09dcfde8543808a2615d73c1d1b021c4"
+    },
+    {
+      "file": "IMG-20261003-WA0034.webp",
+      "thumb": "IMG-20261003-WA0034-mini.webp",
+      "source": "IMG-20261003-WA0034.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "61c06ce3bb23c360df58fa79c98d2b6f5736687e3cf74319540bb3442d8b2819"
+    },
+    {
+      "file": "IMG-20261003-WA0035.webp",
+      "thumb": "IMG-20261003-WA0035-mini.webp",
+      "source": "IMG-20261003-WA0035.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "f5c1d375e93fec30b2505086b89cb0b643224d2f8340cc8a3f52ab91a53668a1"
+    },
+    {
+      "file": "IMG-20261003-WA0036.webp",
+      "thumb": "IMG-20261003-WA0036-mini.webp",
+      "source": "IMG-20261003-WA0036.png",
+      "master_size": [
+        2160,
+        3840
+      ],
+      "thumb_size": [
+        810,
+        1440
+      ],
+      "source_sha256": "fc9388a7964ca32c9a43a128476a196871c25e1425dc2b861ab0285a9054ff08"
+    },
+    {
+      "file": "IMG-20261003-WA0038.webp",
+      "thumb": "IMG-20261003-WA0038-mini.webp",
+      "source": "IMG-20261003-WA0038.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "548f31c7495d7b51db2f91f392fa0c48a82d0a7da17ce7b4c71e05f154c1c38f"
+    },
+    {
+      "file": "IMG-20261003-WA0039.webp",
+      "thumb": "IMG-20261003-WA0039-mini.webp",
+      "source": "IMG-20261003-WA0039.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1440,
+        1080
+      ],
+      "source_sha256": "eb0709fee4eafb9988631466273114966af6ebdd16ff9a926d471de11a93542f"
+    },
+    {
+      "file": "IMG-20261003-WA0040.webp",
+      "thumb": "IMG-20261003-WA0040-mini.webp",
+      "source": "IMG-20261003-WA0040.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "1ec43cf0f1e0ebe08e4c4d477f451d47d3a41e2ea2199ec7212a4e540a531f41"
+    },
+    {
+      "file": "IMG-20261003-WA0044.webp",
+      "thumb": "IMG-20261003-WA0044-mini.webp",
+      "source": "IMG-20261003-WA0044.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "67ad45a74e52d3fad2eec24f68ef654a1edcc9496cbb3a4eea1f6f652ea00dd1"
+    },
+    {
+      "file": "IMG-20261003-WA0046.webp",
+      "thumb": "IMG-20261003-WA0046-mini.webp",
+      "source": "IMG-20261003-WA0046.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "b0bd3994ebbf85e95ed76576c0d3322fda68c79b4df317b57423f83b18a61849"
+    },
+    {
+      "file": "IMG-20261003-WA0047.webp",
+      "thumb": "IMG-20261003-WA0047-mini.webp",
+      "source": "IMG-20261003-WA0047.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "df4a7db9604878462416aa53ef06db757234990f39bfff9c8538d3d30389582f"
+    },
+    {
+      "file": "IMG-20261003-WA0050.webp",
+      "thumb": "IMG-20261003-WA0050-mini.webp",
+      "source": "IMG-20261003-WA0050.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "2b2a00255fdcf0dbf3497fc5702815ac43614fe136d1da8c8e2a79d32e5fb09e"
+    },
+    {
+      "file": "IMG-20261003-WA0053.webp",
+      "thumb": "IMG-20261003-WA0053-mini.webp",
+      "source": "IMG-20261003-WA0053.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "9706073a68985d682901e8e1a490b61148f1c10c93586646d240ecfc5825aeae"
+    },
+    {
+      "file": "IMG-20261003-WA0055.webp",
+      "thumb": "IMG-20261003-WA0055-mini.webp",
+      "source": "IMG-20261003-WA0055.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "f26037f25c1f201c50f247708738867d5182533101a2e91831623872c350be44"
+    },
+    {
+      "file": "IMG-20261003-WA0056.webp",
+      "thumb": "IMG-20261003-WA0056-mini.webp",
+      "source": "IMG-20261003-WA0056.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "4a3720a3e758aac291985ecf689414ddae9454ef41913f2065d19f4c33eb1d37"
+    },
+    {
+      "file": "IMG-20261003-WA0058.webp",
+      "thumb": "IMG-20261003-WA0058-mini.webp",
+      "source": "IMG-20261003-WA0058.png",
+      "master_size": [
+        3840,
+        2160
+      ],
+      "thumb_size": [
+        1440,
+        810
+      ],
+      "source_sha256": "ac0e92b7e0709aa4a05c5a4ee0c923239508c28851420eb639ad0a34a7114226"
+    },
+    {
+      "file": "IMG-20261003-WA0062.webp",
+      "thumb": "IMG-20261003-WA0062-mini.webp",
+      "source": "IMG-20261003-WA0062.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "57bc7a5619f1ce1ad0403ffa54c66b64939190caa2d0187c62f2b72cd8a07d2d"
+    },
+    {
+      "file": "IMG-20261003-WA0064.webp",
+      "thumb": "IMG-20261003-WA0064-mini.webp",
+      "source": "IMG-20261003-WA0064.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "9b2afa7ac415c63ceabb646b8f2c31d8f171e0d4e1e265959659eb8572e3c09d"
+    },
+    {
+      "file": "IMG-20261003-WA0069.webp",
+      "thumb": "IMG-20261003-WA0069-mini.webp",
+      "source": "IMG-20261003-WA0069.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1440,
+        1080
+      ],
+      "source_sha256": "0c2beeda5f4bc44b01bbf8c64ad658fd9de76cc8d54a96793c3db6e04e0ef01a"
+    },
+    {
+      "file": "IMG-20261003-WA0072.webp",
+      "thumb": "IMG-20261003-WA0072-mini.webp",
+      "source": "IMG-20261003-WA0072.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        1080,
+        1440
+      ],
+      "source_sha256": "ddf99a35370cac58f8c95956362341bffc1600941f7f7a624cadb326d74df218"
+    },
+    {
+      "file": "IMG-20261003-WA0073.webp",
+      "thumb": "IMG-20261003-WA0073-mini.webp",
+      "source": "IMG-20261003-WA0073.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        750,
+        1000
+      ],
+      "source_sha256": "5a742ad3f8a80b22d08fea5062f744a2b87ca9e8bed2a7c4e732cbd590e4ad8c"
+    },
+    {
+      "file": "IMG-20261003-WA0075.webp",
+      "thumb": "IMG-20261003-WA0075-mini.webp",
+      "source": "IMG-20261003-WA0075.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        750,
+        1000
+      ],
+      "source_sha256": "f7e0d516c759514bb48431c55613d31635629a4c513057a2dbaca7472a7bdbc4"
+    },
+    {
+      "file": "IMG-20261003-WA0077.webp",
+      "thumb": "IMG-20261003-WA0077-mini.webp",
+      "source": "IMG-20261003-WA0077.png",
+      "master_size": [
+        2880,
+        3840
+      ],
+      "thumb_size": [
+        750,
+        1000
+      ],
+      "source_sha256": "1d1b4dd9d07dfb1bb1575dd4c8775aff07abc7ec97df41b2eef0dfb3e4b68608"
+    },
+    {
+      "file": "IMG-20261008-WA0003.webp",
+      "thumb": "IMG-20261008-WA0003-mini.webp",
+      "source": "IMG-20261008-WA0003.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1000,
+        750
+      ],
+      "source_sha256": "836fe159499248b382313f36d092c993efb2f63e4250e45583091f5a493375c3"
+    },
+    {
+      "file": "IMG-20261008-WA0004.webp",
+      "thumb": "IMG-20261008-WA0004-mini.webp",
+      "source": "IMG-20261008-WA0004.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1000,
+        750
+      ],
+      "source_sha256": "fdf7074c64e65889019d2c105ac9d09211fb978d3b931b9b62a87b38336a2d62"
+    },
+    {
+      "file": "IMG-20261008-WA0005.webp",
+      "thumb": "IMG-20261008-WA0005-mini.webp",
+      "source": "IMG-20261008-WA0005.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1000,
+        750
+      ],
+      "source_sha256": "ee7f88ebbe4cb90d78e0bba59e1584274c2f66adcdd90e9dff983036e6323362"
+    },
+    {
+      "file": "IMG-20261008-WA0013.webp",
+      "thumb": "IMG-20261008-WA0013-mini.webp",
+      "source": "IMG-20261008-WA0013.png",
+      "master_size": [
+        3840,
+        2880
+      ],
+      "thumb_size": [
+        1000,
+        750
+      ],
+      "source_sha256": "eaf261cd3909c00ae016f44a6ac1fedc157463b9ef8b3f7f80b4d81eb334daa2"
+    }
+  ],
+  "excluded_duplicates": {
+    "IMG-20260907-WA0011.png": "duplicate of IMG-20260907-WA0010.png (lower resolution)",
+    "IMG-20261003-WA0076.png": "duplicate of IMG-20261003-WA0038.png (lower resolution)",
+    "IMG-20261003-WA0083.png": "duplicate of IMG-20261003-WA0053.png (lower resolution)"
+  }
+}
