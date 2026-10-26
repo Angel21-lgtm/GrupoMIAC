@@ -1627,13 +1627,12 @@ document.querySelector('[data-language-toggle]')?.addEventListener('click', () =
 
         // IntersectionObserver dual: Animaciones de sección recurrentes + Scrollspy activo
         document.addEventListener("DOMContentLoaded", () => {
-            // 1. Fade-in-up persistente (entra y sale de pantalla)
+            // 1. Revelar cada elemento una sola vez para evitar parpadeos al cruzar el umbral.
             const fadeObserver = new IntersectionObserver((entries) => {
                 entries.forEach(entry => {
                     if (entry.isIntersecting) {
                         entry.target.classList.add('is-visible');
-                    } else {
-                        entry.target.classList.remove('is-visible');
+                        fadeObserver.unobserve(entry.target);
                     }
                 });
             }, { threshold: 0.1 });
@@ -1675,4 +1674,3 @@ document.querySelector('[data-language-toggle]')?.addEventListener('click', () =
             updateActiveNavigation();
 
         });
-
